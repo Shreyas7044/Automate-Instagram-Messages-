@@ -63,4 +63,4 @@ Sends message
 ---
 
 ## 📸 Screenshot
-![Application Screenshot]()
+![Application Screenshot](Automate-Instagram-Messages/screenshot.png)
