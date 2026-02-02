@@ -55,7 +55,7 @@ Sends message
 
 ---
 
-##⚠️ Important Notes
+## ⚠️ Important Notes
 - Instagram UI changes frequently; XPath may break
 - Use for learning purposes only
 - Excessive automation may violate Instagram policies
